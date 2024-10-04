@@ -396,7 +396,7 @@
                                             id="dropdownMenuButton3" data-bs-toggle="dropdown" aria-expanded="false">
                                             <span class="header-user wg-user">
                                                 <span class="image">
-                                                    <img src="images/avatar/user-1.png" alt="">
+                                                    <img src="{{ asset('images/avatar/user-1.png') }}" alt="">
                                                 </span>
                                                 <span class="flex flex-column">
                                                     <span class="body-title mb-2">Kristin Watson</span>
@@ -440,7 +440,9 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="{{ asset('login.html') }}" class="user-item">
+                                            <form method="POST" action="{{ route('logout') }}" id="logout-form">
+                                        @csrf
+                                    <a href="{{ route('logout') }}" class="" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
                                                     <div class="icon">
                                                         <i class="icon-log-out"></i>
                                                     </div>
