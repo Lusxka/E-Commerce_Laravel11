@@ -40,7 +40,7 @@
 
                 <div class="section-menu-left">
                     <div class="box-logo">
-                        <a href="{{ asset('admin.index') }}" id="site-logo-inner">
+                        <a href="{{ asset('http://127.0.0.1:8000/') }}" id="site-logo-inner">
                             <img class="" id="logo_header_1" alt="" src="{{ asset('images/logo/logo.png') }}"
                                 data-light="{{ asset('images/logo/logo.png') }}" data-dark="{{ asset('images/logo/logo.png') }}">
                         </a>
@@ -63,7 +63,7 @@
                         <div class="center-item">
                             <ul class="menu-list">
                                 <li class="menu-item has-children">
-                                    <a href="'javascript:void(0);" class="menu-item-button">
+                                    <a href="javascript:void(0);" class="menu-item-button">
                                         <div class="icon"><i class="icon-shopping-cart"></i></div>
                                         <div class="text">Products</div>
                                     </a>
