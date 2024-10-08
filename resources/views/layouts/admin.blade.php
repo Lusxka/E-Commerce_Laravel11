@@ -442,11 +442,11 @@
                                             <li>
                                             <form method="POST" action="{{ route('logout') }}" id="logout-form">
                                         @csrf
-                                    <a href="{{ route('logout') }}" class="" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                                    <a href="{{ route('logout') }}" class="user-item" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
                                                     <div class="icon">
                                                         <i class="icon-log-out"></i>
                                                     </div>
-                                                    <div class="body-title-2">Log out</div>
+                                                    <div class="body-title-2">Logout</div>
                                                 </a>
                                             </li>
                                         </ul>
