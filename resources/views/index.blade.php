@@ -20,17 +20,16 @@
           <div class="character_markup type2">
             <p
               class="text-uppercase font-sofia mark-grey-color animate animate_fade animate_btt animate_delay-10 mb-0">
-              Dresses</p>
+              Oferta do Dia</p>
           </div>
         </div>
         <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
           <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
-            New Arrivals</h6>
-          <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Night Spring</h2>
-          <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Dresses</h2>
+          Oferta do Dia</h6>
+          <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Monitor Cepheus Fuse</h2>
+          <h2 class="h2 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">"Visão de outro mundo!"</h2>
           <a href="#"
-            class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Shop
-            Now</a>
+            class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Aproveitar</a>
         </div>
       </div>
     </div>
@@ -38,22 +37,19 @@
     <div class="swiper-slide">
       <div class="overflow-hidden position-relative h-100">
         <div class="slideshow-character position-absolute bottom-0 pos_right-center">
-          <img loading="lazy" src="{{ asset('assets/images/slideshow-character1.png') }}" width="400" height="733"
+          <img loading="lazy" src="{{ asset('assets/images/slideshow-character1.png') }}"
             alt="Woman Fashion 1"
             class="slideshow-character__img animate animate_fade animate_btt animate_delay-9 w-auto h-auto" />
           <div class="character_markup">
-            <p class="text-uppercase font-sofia fw-bold animate animate_fade animate_rtl animate_delay-10">Summer
-            </p>
           </div>
         </div>
         <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
           <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
-            New Arrivals</h6>
-          <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Night Spring</h2>
-          <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Dresses</h2>
+            Oferta Halloween</h6>
+          <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Notebook Vaio FE15</h2>
+          <h2 class="h2 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5"><br>"Ofertas de arrepiar!"<br><br><br></h2>
           <a href="#"
-            class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Shop
-            Now</a>
+            class="text-uppercase btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Aproveitar</a>
         </div>
       </div>
     </div>
@@ -67,12 +63,11 @@
         </div>
         <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
           <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
-            New Arrivals</h6>
-          <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Night Spring</h2>
-          <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Dresses</h2>
+            Somente Aqui</h6>
+          <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Cadeira Gamer TGT Heron</h2>
+          <h2 class="h2 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">"Eleve o conforto para outro nível!"</h2>
           <a href="#"
-            class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Shop
-            Now</a>
+            class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Aproveitar</a>
         </div>
       </div>
     </div>
@@ -87,7 +82,7 @@
 <div class="container mw-1620 bg-white border-radius-10">
   <div class="mb-3 mb-xl-5 pt-1 pb-4"></div>
   <section class="category-carousel container">
-    <h2 class="section-title text-center mb-3 pb-xl-2 mb-xl-4">You Might Like</h2>
+    <h2 class="section-title text-center mb-3 pb-xl-2 mb-xl-4">Categorias</h2>
 
     <div class="position-relative">
       <div class="swiper-container js-swiper-slider" data-settings='{
@@ -132,56 +127,56 @@
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_1.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Women<br />Tops</a>
+              <a href="#" class="menu-link fw-medium">Hardware</a>
             </div>
           </div>
           <div class="swiper-slide">
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_2.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Women<br />Pants</a>
+              <a href="#" class="menu-link fw-medium">Periféricos</a>
             </div>
           </div>
           <div class="swiper-slide">
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_3.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Women<br />Clothes</a>
+              <a href="#" class="menu-link fw-medium">Computadores</a>
             </div>
           </div>
           <div class="swiper-slide">
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_4.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Men<br />Jeans</a>
+              <a href="#" class="menu-link fw-medium">Games</a>
             </div>
           </div>
           <div class="swiper-slide">
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_5.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Men<br />Shirts</a>
+              <a href="#" class="menu-link fw-medium">Smartphones</a>
             </div>
           </div>
           <div class="swiper-slide">
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_6.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Men<br />Shoes</a>
+              <a href="#" class="menu-link fw-medium">TV</a>
             </div>
           </div>
           <div class="swiper-slide">
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_7.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Women<br />Dresses</a>
+              <a href="#" class="menu-link fw-medium">Projetores</a>
             </div>
           </div>
           <div class="swiper-slide">
             <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_8.png') }}" width="124"
               height="124" alt="" />
             <div class="text-center">
-              <a href="#" class="menu-link fw-medium">Kids<br />Tops</a>
+              <a href="#" class="menu-link fw-medium">Espaço Gamer</a>
             </div>
           </div>
         </div><!-- /.swiper-wrapper -->
@@ -205,12 +200,12 @@
   <div class="mb-3 mb-xl-5 pt-1 pb-4"></div>
 
   <section class="hot-deals container">
-    <h2 class="section-title text-center mb-3 pb-xl-3 mb-xl-4">Hot Deals</h2>
+    <h2 class="section-title text-center mb-3 pb-xl-3 mb-xl-4">Ofertas em Destaque</h2>
     <div class="row">
       <div
         class="col-md-6 col-lg-4 col-xl-20per d-flex align-items-center flex-column justify-content-center py-4 align-items-md-start">
-        <h2>Summer Sale</h2>
-        <h2 class="fw-bold">Up to 60% Off</h2>
+        <h2>Descontos de até</h2>
+        <h2 class="fw-bold">60% Off</h2>
 
         <div class="position-relative d-flex align-items-center text-center pt-xxl-4 js-countdown mb-3"
           data-date="18-3-2024" data-time="06:50">
@@ -235,7 +230,7 @@
           </div>
         </div>
 
-        <a href="#" class="btn-link default-underline text-uppercase fw-medium mt-3">View All</a>
+        <a href="#" class="btn-link default-underline text-uppercase fw-medium mt-3">Ver Mais</a>
       </div>
       <div class="col-md-6 col-lg-8 col-xl-80per">
         <div class="position-relative">
@@ -284,18 +279,18 @@
                 </div>
 
                 <div class="pc__info position-relative">
-                  <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
+                  <h6 class="pc__title"><a href="details.html">PC Gamer Pichau Arquetu</a></h6>
                   <div class="product-card__price d-flex">
-                    <span class="money price text-secondary">$29</span>
+                    <span class="money price text-secondary">R$ 4.099,97</span>
                   </div>
 
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -329,10 +324,10 @@
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -366,10 +361,10 @@
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -404,10 +399,10 @@
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -441,10 +436,10 @@
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -478,10 +473,10 @@
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -515,10 +510,10 @@
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -553,10 +548,10 @@
                   <div
                     class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                      data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                      data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
                     <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                       data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                      <span class="d-none d-xxl-block">Quick View</span>
+                      <span class="d-none d-xxl-block">Descrição</span>
                       <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                           xmlns="http://www.w3.org/2000/svg">
                           <use href="#icon_view" />
@@ -587,11 +582,11 @@
           <img loading="lazy" class="h-auto" src="{{ asset('assets/images/home/demo3/category_9.jpg') }}" width="690" height="665"
             alt="" />
           <div class="category-banner__item-mark">
-            Starting at $19
+            Frete Gratis
           </div>
           <div class="category-banner__item-content">
-            <h3 class="mb-0">Blazers</h3>
-            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
+            <h3 class="mb-0">Serviço de Retirada</h3>
+            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Conhecer</a>
           </div>
         </div>
       </div>
@@ -600,11 +595,11 @@
           <img loading="lazy" class="h-auto" src="{{ asset('assets/images/home/demo3/category_10.jpg') }}" width="690" height="665"
             alt="" />
           <div class="category-banner__item-mark">
-            Starting at $19
+            Frete Gratis
           </div>
           <div class="category-banner__item-content">
-            <h3 class="mb-0">Sportswear</h3>
-            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
+            <h3 class="mb-0">Entrega Expressa</h3>
+            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Conhecer</a>
           </div>
         </div>
       </div>
@@ -614,7 +609,7 @@
   <div class="mb-3 mb-xl-5 pt-1 pb-4"></div>
 
   <section class="products-grid container">
-    <h2 class="section-title text-center mb-3 pb-xl-3 mb-xl-4">Featured Products</h2>
+    <h2 class="section-title text-center mb-3 pb-xl-3 mb-xl-4">Produtos Novos e Lançamentos</h2>
 
     <div class="row">
       <div class="col-6 col-md-4 col-lg-3">
@@ -635,10 +630,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -671,10 +666,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -696,7 +691,7 @@
               <img loading="lazy" src="{{ asset('assets/images/home/demo3/product-6.jpg') }}" width="330" height="400"
                 alt="Cropped Faux leather Jacket" class="pc__img">
             </a>
-            <div class="product-label text-uppercase bg-white top-0 left-0 mt-2 mx-2">New</div>
+            <div class="product-label text-uppercase bg-white top-0 left-0 mt-2 mx-2">Novo</div>
           </div>
 
           <div class="pc__info position-relative">
@@ -708,10 +703,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -746,10 +741,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -782,10 +777,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -818,10 +813,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -854,10 +849,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -891,10 +886,10 @@
             <div
               class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
+                data-aside="cartDrawer" title="Add To Cart">Carrinho</button>
               <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
                 data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                <span class="d-none d-xxl-block">Quick View</span>
+                <span class="d-none d-xxl-block">Descrição</span>
                 <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_view" />
@@ -912,7 +907,7 @@
     </div><!-- /.row -->
 
     <div class="text-center mt-2">
-      <a class="btn-link btn-link_lg default-underline text-uppercase fw-medium" href="#">Load More</a>
+      <a class="btn-link btn-link_lg default-underline text-uppercase fw-medium" href="#">Ver Todos</a>
     </div>
   </section>
 </div>
