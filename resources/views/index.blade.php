@@ -14,7 +14,7 @@
     <div class="swiper-slide">
       <div class="overflow-hidden position-relative h-100">
         <div class="slideshow-character position-absolute bottom-0 pos_right-center">
-          <img loading="lazy" src="{{ asset('assets/images/home/demo3/slideshow-character1.png') }}" width="542" height="733"
+          <img loading="lazy" src="{{ asset('assets/images/carrossel_01.png') }}" width="542" height="733"
             alt="Woman Fashion 1"
             class="slideshow-character__img animate animate_fade animate_btt animate_delay-9 w-auto h-auto" />
           <div class="character_markup type2">
@@ -27,20 +27,22 @@
           <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
           Oferta do Dia</h6>
           <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Monitor Cepheus Fuse</h2>
-          <h2 class="h2 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">"Visão de outro mundo!"</h2>
+          <h2 class="h2 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5"><br>"Visão de outro mundo!"<br><br><br></h2>
           <a href="#"
-            class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Aproveitar</a>
+            class="text-uppercase btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Aproveitar</a>
         </div>
       </div>
     </div>
-
     <div class="swiper-slide">
       <div class="overflow-hidden position-relative h-100">
         <div class="slideshow-character position-absolute bottom-0 pos_right-center">
-          <img loading="lazy" src="{{ asset('assets/images/slideshow-character1.png') }}"
+          <img loading="lazy" src="{{ asset('assets/images/carrossel_02.png') }}" width="400" height="690"
             alt="Woman Fashion 1"
             class="slideshow-character__img animate animate_fade animate_btt animate_delay-9 w-auto h-auto" />
-          <div class="character_markup">
+            <div class="character_markup type2">
+            <p
+              class="text-uppercase font-sofia mark-grey-color animate animate_fade animate_btt animate_delay-10 mb-0">
+              Halloween</p>
           </div>
         </div>
         <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
@@ -57,17 +59,22 @@
     <div class="swiper-slide">
       <div class="overflow-hidden position-relative h-100">
         <div class="slideshow-character position-absolute bottom-0 pos_right-center">
-          <img loading="lazy" src="{{ asset('assets/images/slideshow-character2.png') }}" width="400" height="690"
+          <img loading="lazy" src="{{ asset('assets/images/carrossel_03.png') }}" width="400" height="690"
             alt="Woman Fashion 2"
             class="slideshow-character__img animate animate_fade animate_rtl animate_delay-10 w-auto h-auto" />
+            <div class="character_markup type2">
+            <p
+              class="text-uppercase font-sofia mark-grey-color animate animate_fade animate_btt animate_delay-10 mb-0">
+              Gamer</p>
+          </div>
         </div>
         <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
           <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
             Somente Aqui</h6>
           <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Cadeira Gamer TGT Heron</h2>
-          <h2 class="h2 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">"Eleve o conforto para outro nível!"</h2>
+          <h2 class="h2 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5"><br>"Eleve o conforto para outro nível!"<br><br><br></h2>
           <a href="#"
-            class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Aproveitar</a>
+            class="text-uppercase btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Aproveitar</a>
         </div>
       </div>
     </div>
@@ -124,57 +131,57 @@
         }'>
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_1.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_01.png') }}" width="124"
+              height="124" alt="Categoria Hardware" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">Hardware</a>
             </div>
           </div>
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_2.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_02.png') }}" width="124"
+              height="124" alt="Categoria Periféricos" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">Periféricos</a>
             </div>
           </div>
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_3.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_03.png') }}" width="124"
+              height="124" alt="Categoria Computadores" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">Computadores</a>
             </div>
           </div>
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_4.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_04.png') }}" width="124"
+              height="124" alt="Categoria Games" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">Games</a>
             </div>
           </div>
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_5.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_05.png') }}" width="124"
+              height="124" alt="Categoria Smartphones" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">Smartphones</a>
             </div>
           </div>
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_6.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_06.png') }}" width="124"
+              height="124" alt="Categoria TV" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">TV</a>
             </div>
           </div>
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_7.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_07.png') }}" width="124"
+              height="124" alt="Categoria Projetores" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">Projetores</a>
             </div>
           </div>
           <div class="swiper-slide">
-            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/category_8.png') }}" width="124"
-              height="124" alt="" />
+            <img loading="lazy" class="w-100 h-auto mb-3" src="{{ asset('assets/images/home/demo3/categoria_08.png') }}" width="124"
+              height="124" alt="Categoria Espaço Gamer" />
             <div class="text-center">
               <a href="#" class="menu-link fw-medium">Espaço Gamer</a>
             </div>
