@@ -310,7 +310,7 @@
         <div class="overflow-hidden">
           <ul class="navigation__list list-unstyled position-relative">
             <li class="navigation__item">
-              <a href="{{route('home.index')}}" class="navigation__link">Home</a>
+              <a href="{{route('home.index')}}" class="navigation__link">Início</a>
             </li>
             <li class="navigation__item">
               <a href="shop.html" class="navigation__link">Catálogo</a>
@@ -519,9 +519,10 @@
               <img src="assets/images/logo.svg" alt="SurfsideMedia" class="logo__image d-block" />
             </a>
           </div>
-          <p class="footer-address">123 Beach Avenue, Surfside City, CA 00000</p>
-          <p class="m-0"><strong class="fw-medium">contact@surfsidemedia.in</strong></p>
-          <p><strong class="fw-medium">+1 000-000-0000</strong></p>
+          <p class="footer-address">Av. Eng. Eusébio Stevaux, 823 - Santo Amaro, São Paulo</p>
+          <p class="m-0"><strong class="fw-medium"></strong></p>
+          <p><strong class="fw-medium">Telefone:</strong> 4090-1030</strong></p>
+          <p><strong class="fw-medium">CNPJ:</strong> 03.709.814/0001-98</p>
 
           <ul class="social-links list-unstyled d-flex flex-wrap mb-0">
             <li>
@@ -533,12 +534,12 @@
               </a>
             </li>
             <li>
-              <a href="#" class="footer__social-link d-block">
+              {{-- <a href="#" class="footer__social-link d-block">
                 <svg class="svg-icon svg-icon_twitter" width="14" height="13" viewBox="0 0 14 13"
                   xmlns="http://www.w3.org/2000/svg">
                   <use href="#icon_twitter" />
                 </svg>
-              </a>
+              </a> --}}
             </li>
             <li>
               <a href="#" class="footer__social-link d-block">
@@ -558,24 +559,24 @@
               </a>
             </li>
             <li>
-              <a href="#" class="footer__social-link d-block">
+              {{-- <a href="#" class="footer__social-link d-block">
                 <svg class="svg-icon svg-icon_pinterest" width="14" height="15" viewBox="0 0 14 15"
                   xmlns="http://www.w3.org/2000/svg">
                   <use href="#icon_pinterest" />
                 </svg>
-              </a>
+              </a> --}}
             </li>
           </ul>
         </div>
 
         <div class="footer-column footer-menu mb-4 mb-lg-0">
-          <h6 class="sub-menu__title text-uppercase">Company</h6>
+          <h6 class="sub-menu__title text-uppercase">Empresa</h6>
           <ul class="sub-menu__list list-unstyled">
-            <li class="sub-menu__item"><a href="about-2.html" class="menu-link menu-link_us-s">About Us</a></li>
-            <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Careers</a></li>
-            <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Affiliates</a></li>
-            <li class="sub-menu__item"><a href="blog_list1.html" class="menu-link menu-link_us-s">Blog</a></li>
-            <li class="sub-menu__item"><a href="contact-2.html" class="menu-link menu-link_us-s">Contact Us</a></li>
+            <li class="sub-menu__item"><a href="about-2.html" class="menu-link menu-link_us-s">Quem Somos</a></li>
+            <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">EcoSystem</a></li>
+            <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">ExPress</a></li>
+            {{-- <li class="sub-menu__item"><a href="blog_list1.html" class="menu-link menu-link_us-s">Blog</a></li>
+            <li class="sub-menu__item"><a href="contact-2.html" class="menu-link menu-link_us-s">Contact Us</a></li> --}}
           </ul>
         </div>
 
@@ -618,10 +619,10 @@
 
     <div class="footer-bottom">
       <div class="container d-md-flex align-items-center">
-        <span class="footer-copyright me-auto">©2024 Surfside Media</span>
+        <span class="footer-copyright me-auto">©2024 Hexatech</span>
         <div class="footer-settings d-md-flex align-items-center">
-          <a href="privacy-policy.html">Privacy Policy</a> &nbsp;|&nbsp; <a href="terms-conditions.html">Terms &amp;
-            Conditions</a>
+          <a href="privacy-policy.html">Política de Privacidade</a> &nbsp;|&nbsp; <a href="terms-conditions.html">Termos &amp;
+            Condições</a>
         </div>
       </div>
     </div>
