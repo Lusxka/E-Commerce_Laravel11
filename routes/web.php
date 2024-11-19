@@ -6,6 +6,7 @@ use App\Http\Controllers\UserController;
 use App\Http\Middleware\AuthAdmin;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\CartController;
 
 
 Auth::routes();
@@ -22,3 +23,7 @@ Route::middleware(['auth', AuthAdmin::class])->group(function () {
     Route::get('/admin/brand/add', [AdminController::class, 'add_brand'])->name('admin.brand.add');
     Route::post('/admin/brand/store', [AdminController::class, 'brand_store'])->name('admin.brand.store');
 });
+
+Route::get('/cart',[CartController::class,'index'])->name('cart.index');
+Route::post('/cart/store', [CartController::class, 'addToCart'])->name('cart.store');
+
